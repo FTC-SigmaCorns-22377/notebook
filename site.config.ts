@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'FTC #22377 The SigmaCorns',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'The Engineering Notebook for FTC Team #22377 The SigmaCorns',
 
   // social usernames (optional)
   github: 'FTC-SigmaCorns-22377',
